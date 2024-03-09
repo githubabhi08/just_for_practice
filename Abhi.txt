@@ -1,0 +1,3 @@
+blue tick
+red border
+yellow bg
