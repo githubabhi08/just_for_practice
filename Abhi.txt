@@ -4,3 +4,6 @@ yellow bg
 
 pink saree
 purple bag
+
+payment add
+payment tremoved
